@@ -113,8 +113,4 @@ ul li span:hover{
 }
 
 
-@media screen and (max-width:768px){
-    .todo-app{
-        width:80%;
-    }
-}
+
